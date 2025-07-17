@@ -1,5 +1,5 @@
-# Login-Page
-Simple login page using HTML, CSS &amp; JavaScript
+# Contact Form
+Simple Contact Form using HTML, CSS &amp; JavaScript
 
 # 🌟 Stylish Contact Form UI
 
