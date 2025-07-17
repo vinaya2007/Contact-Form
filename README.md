@@ -26,7 +26,8 @@ A sleek and modern contact form designed with HTML & CSS. This responsive form f
 ## 🛠️ Tech Stack
 
 - **HTML5** – Markup structure  
-- **CSS3** – Styling and layout  
+- **CSS3** – Styling and layout
+- **JavaScript**
 
 ---
 
